@@ -1,7 +1,7 @@
-  <p align="center">
+  <!-- <p align="center">
   <img style="width:8rem; height:auto; border-radius: 50%;" src="https://avatars.githubusercontent.com/u/75421979?s=400&amp;u=82899ff22801c6014a6cf8cf61af1d94565cd8f2&amp;v=4">
-</p>
-<h1 align="center">Hi <img width="30px">, I'm Danang Rifai</h1>
+</p> -->
+<h1 align="center">Hi, I'm Danang Rifai</h1>
 <h2 font-size="20" align="center">-Backend Engineer-</h2>
 
 <!-- <h2 align="center"><u><b>Knowledge Base</b></u></h2> -->

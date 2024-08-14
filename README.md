@@ -81,9 +81,17 @@
 
 <hr>
 <div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
-<p><a href="https://github.com/paafff"><img src="https://github-readme-stats.vercel.app/api?username=paafff&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;locale=en" alt=""></a>
-<a href="https://github.com/paafff"><img src="https://github-readme-streak-stats.herokuapp.com/?user=paafff&amp;theme=material-palenight" alt=""></a></p>
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2>
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <a href="https://github.com/paafff">
+    <img src="https://github-readme-stats.vercel.app/api?username=paafff&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;locale=en" alt="">
+  </a>
+  <a href="https://github.com/paafff">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=paafff&amp;theme=material-palenight" alt="">
+  </a>
+</div>
+
 </div>
 
 </div>

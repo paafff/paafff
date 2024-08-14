@@ -6,9 +6,6 @@
 
 <!-- <h2 align="center"><u><b>Knowledge Base</b></u></h2> -->
 
-<!-- <p align="center">
-  <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif">
-</p> -->
 <br>
 
 <h3 align="center">Languages</h3>
@@ -79,6 +76,8 @@
   <a href="https://instagram.com/paafff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="profile-radme-generator" height="30" width="40"></a>
   <a href="https://discord.gg/paafff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="profile-radme-generator" height="30" width="40"></a> 
 </div>
+
+<br>
 
 <hr>
 <div align="center">

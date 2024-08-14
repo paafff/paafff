@@ -85,10 +85,10 @@
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://github.com/paafff">
-    <img src="https://github-readme-stats.vercel.app/api?username=paafff&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;locale=en" alt="" style="width: 250px; height: auto;>
+    <img src="https://github-readme-stats.vercel.app/api?username=paafff&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;locale=en" alt="" style="width: 100px; height: auto;>
   </a>
   <a href="https://github.com/paafff">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=paafff&amp;theme=material-palenight" alt="" style="width: 250px; height: auto;>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=paafff&amp;theme=material-palenight" alt="" style="width: 100px; height: auto;>
   </a>
 </div>
 

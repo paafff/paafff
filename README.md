@@ -2,9 +2,9 @@
   <img style="width:8rem; height:auto; border-radius: 50%;" src="https://avatars.githubusercontent.com/u/75421979?s=400&amp;u=82899ff22801c6014a6cf8cf61af1d94565cd8f2&amp;v=4">
 </p>
 <h1 align="center">Hi <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, I'm Danang Rifai</h1>
-<h3 font-size="20" align="center">-Backend Engineer-</h3>
+<h2 font-size="20" align="center">-Backend Engineer-</h2>
 
-<h2 align="center"><u><b>Knowledge Base</b></u></h2>
+<!-- <h2 align="center"><u><b>Knowledge Base</b></u></h2> -->
 
 <!-- <p align="center">
   <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif">
